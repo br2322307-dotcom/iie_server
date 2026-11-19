@@ -4,3 +4,4 @@ libsql-client
 werkzeug
 python-dotenv
 pymongo
+cloudinary
